@@ -1,0 +1,7 @@
+{
+  "name": "Farm to Home",
+  "description": "Fresh From the Farm. Delivered to Your Door. Direct farm-to-customer e-commerce platform connecting Indian farmers with households.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
